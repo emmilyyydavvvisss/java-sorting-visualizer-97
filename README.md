@@ -1,2 +1,4 @@
-# java-sorting-visualizer-97
+# Java Sorting Visualizer 97
+
 Sorting lists algorithm in Java.
+
